@@ -14,8 +14,8 @@ To get started, you will need API keys from the following platforms:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/jayy1809/dhiwise-round-2-JayPanchal
-   cd dhiwise-round-2-JayPanchal
+   git clone https://github.com/Reemostat/AgenSummerizerAIv.git
+   cd AgenSummerizerAi
    ```
 
 2. Create a virtual environment:
