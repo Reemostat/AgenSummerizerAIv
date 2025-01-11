@@ -7,7 +7,7 @@ LOADING_DIRECTORY = "./data"
 
 
 def agenda_generator_page():
-    st.title("📋 Agenda Generator")
+    st.title("📋 AgenSummeizerAi")
 
     if "name" not in st.session_state:
         st.session_state["name"] = ""
